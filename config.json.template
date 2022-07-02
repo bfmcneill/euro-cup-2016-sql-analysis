@@ -1,0 +1,7 @@
+{
+  "MARIA_DB_USERNAME": "root",
+  "MARIA_DB_PASSWORD": "changeme",
+  "MARIA_DB_HOST": "localhost",
+  "MARIA_DB_PORT": "3306",
+  "MARIA_DB_DATABASE": "euro_cup_2016"
+}

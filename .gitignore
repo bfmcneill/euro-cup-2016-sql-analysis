@@ -1,0 +1,6 @@
+venv/
+config.json
+.idea/
+.DS_Store
+
+*.egg-info/
